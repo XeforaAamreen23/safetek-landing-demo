@@ -1,0 +1,25 @@
+/* .content_main {
+    background-image: url("/images/safeteek-logo.svg");
+} */
+
+.content_main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1140px;
+    margin: auto;
+}
+.banner_content h1, p {
+    text-align: left;
+}
+.btn_expl{
+    background-color: #14457B;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;   
+    float: left;
+}
